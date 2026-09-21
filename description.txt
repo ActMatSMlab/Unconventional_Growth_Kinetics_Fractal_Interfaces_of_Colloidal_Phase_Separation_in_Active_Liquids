@@ -1,0 +1,3 @@
+All details required to generate the data presented in the manuscript, including the simulation parameters and the names and formats of the files generated for different observables, are provided in the `README.md` file.
+
+All simulation results presented in the manuscript are generated using custom-developed Fortran codes by the authors.
